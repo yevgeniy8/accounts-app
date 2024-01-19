@@ -1,0 +1,14 @@
+.pagination-list {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.pagination-item {
+    padding: 10px 15px;
+    background-color: white;
+    color: rgb(52, 112, 255);
+    border: 1px solid rgb(217, 217, 228);
+    cursor: pointer
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "country": "Tanzania",
+    "marketplace": "Beauty",
+    "profileId": "1"
+  },
+  {
+    "country": "Saint Lucia",
+    "marketplace": "Toys",
+    "profileId": "2"
+  },
+  {
+    "country": "Philippines",
+    "marketplace": "Health",
+    "profileId": "3"
+  },
+  {
+    "country": "Isle of Man",
+    "marketplace": "Health",
+    "profileId": "4"
+  },
+  {
+    "country": "Greece",
+    "marketplace": "Shoes",
+    "profileId": "5"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "marketplace": "Tools",
+    "profileId": "6"
+  },
+  {
+    "country": "Monaco",
+    "marketplace": "Outdoors",
+    "profileId": "7"
+  },
+  {
+    "country": "Greenland",
+    "marketplace": "Kids",
+    "profileId": "8"
+  },
+  {
+    "country": "Suriname",
+    "marketplace": "Garden",
+    "profileId": "9"
+  },
+  {
+    "country": "Reunion",
+    "marketplace": "Clothing",
+    "profileId": "10"
+  },
+  {
+    "country": "Uzbekistan",
+    "marketplace": "Kids",
+    "profileId": "11"
+  },
+  {
+    "country": "Pitcairn Islands",
+    "marketplace": "Tools",
+    "profileId": "12"
+  },
+  {
+    "country": "Mozambique",
+    "marketplace": "Electronics",
+    "profileId": "13"
+  },
+  {
+    "country": "Western Sahara",
+    "marketplace": "Shoes",
+    "profileId": "14"
+  },
+  {
+    "country": "Faroe Islands",
+    "marketplace": "Kids",
+    "profileId": "15"
+  },
+  {
+    "country": "Madagascar",
+    "marketplace": "Baby",
+    "profileId": "16"
+  },
+  {
+    "country": "British Indian Ocean Territory (Chagos Archipelago)",
+    "marketplace": "Baby",
+    "profileId": "17"
+  },
+  {
+    "country": "Western Sahara",
+    "marketplace": "Clothing",
+    "profileId": "18"
+  },
+  {
+    "country": "French Guiana",
+    "marketplace": "Games",
+    "profileId": "19"
+  },
+  {
+    "country": "Niue",
+    "marketplace": "Computers",
+    "profileId": "20"
+  },
+  {
+    "country": "Andorra",
+    "marketplace": "Clothing",
+    "profileId": "21"
+  },
+  {
+    "country": "El Salvador",
+    "marketplace": "Kids",
+    "profileId": "22"
+  },
+  {
+    "country": "Russian Federation",
+    "marketplace": "Home",
+    "profileId": "23"
+  },
+  {
+    "country": "Gabon",
+    "marketplace": "Industrial",
+    "profileId": "24"
+  },
+  {
+    "country": "Iran",
+    "marketplace": "Baby",
+    "profileId": "25"
+  },
+  {
+    "country": "Pitcairn Islands",
+    "marketplace": "Computers",
+    "profileId": "26"
+  },
+  {
+    "country": "Niger",
+    "marketplace": "Shoes",
+    "profileId": "27"
+  },
+  {
+    "country": "Nauru",
+    "marketplace": "Kids",
+    "profileId": "28"
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "marketplace": "Books",
+    "profileId": "29"
+  },
+  {
+    "country": "Lao People's Democratic Republic",
+    "marketplace": "Grocery",
+    "profileId": "30"
+  },
+  {
+    "country": "Niue",
+    "marketplace": "Tools",
+    "profileId": "31"
+  },
+  {
+    "country": "Saudi Arabia",
+    "marketplace": "Games",
+    "profileId": "32"
+  },
+  {
+    "country": "Grenada",
+    "marketplace": "Shoes",
+    "profileId": "33"
+  },
+  {
+    "country": "Congo",
+    "marketplace": "Games",
+    "profileId": "34"
+  },
+  {
+    "country": "Indonesia",
+    "marketplace": "Home",
+    "profileId": "35"
+  },
+  {
+    "country": "Swaziland",
+    "marketplace": "Jewelery",
+    "profileId": "36"
+  },
+  {
+    "country": "Tonga",
+    "marketplace": "Automotive",
+    "profileId": "37"
+  },
+  {
+    "country": "Cook Islands",
+    "marketplace": "Tools",
+    "profileId": "38"
+  },
+  {
+    "country": "France",
+    "marketplace": "Music",
+    "profileId": "39"
+  },
+  {
+    "country": "India",
+    "marketplace": "Electronics",
+    "profileId": "40"
+  },
+  {
+    "country": "Panama",
+    "marketplace": "Kids",
+    "profileId": "41"
+  },
+  {
+    "country": "Saint Barthelemy",
+    "marketplace": "Electronics",
+    "profileId": "42"
+  },
+  {
+    "country": "Aruba",
+    "marketplace": "Toys",
+    "profileId": "43"
+  },
+  {
+    "country": "French Polynesia",
+    "marketplace": "Grocery",
+    "profileId": "44"
+  },
+  {
+    "country": "Thailand",
+    "marketplace": "Electronics",
+    "profileId": "45"
+  },
+  {
+    "country": "Mauritius",
+    "marketplace": "Clothing",
+    "profileId": "46"
+  },
+  {
+    "country": "Nepal",
+    "marketplace": "Clothing",
+    "profileId": "47"
+  },
+  {
+    "country": "Vietnam",
+    "marketplace": "Movies",
+    "profileId": "48"
+  },
+  {
+    "country": "Niger",
+    "marketplace": "Health",
+    "profileId": "49"
+  },
+  {
+    "country": "Vanuatu",
+    "marketplace": "Computers",
+    "profileId": "50"
+  },
+  {
+    "country": "Niue",
+    "marketplace": "Baby",
+    "profileId": "51"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "marketplace": "Toys",
+    "profileId": "52"
+  },
+  {
+    "country": "Sudan",
+    "marketplace": "Jewelery",
+    "profileId": "53"
+  },
+  {
+    "country": "Venezuela",
+    "marketplace": "Grocery",
+    "profileId": "54"
+  },
+  {
+    "country": "Bulgaria",
+    "marketplace": "Clothing",
+    "profileId": "55"
+  },
+  {
+    "country": "Lebanon",
+    "marketplace": "Beauty",
+    "profileId": "56"
+  },
+  {
+    "country": "Cyprus",
+    "marketplace": "Toys",
+    "profileId": "57"
+  },
+  {
+    "country": "Mozambique",
+    "marketplace": "Electronics",
+    "profileId": "58"
+  },
+  {
+    "country": "Bermuda",
+    "marketplace": "Industrial",
+    "profileId": "59"
+  },
+  {
+    "country": "Norway",
+    "marketplace": "Movies",
+    "profileId": "60"
+  },
+  {
+    "country": "Dominica",
+    "marketplace": "Outdoors",
+    "profileId": "61"
+  },
+  {
+    "country": "Myanmar",
+    "marketplace": "Shoes",
+    "profileId": "62"
+  },
+  {
+    "country": "Somalia",
+    "marketplace": "Home",
+    "profileId": "63"
+  },
+  {
+    "country": "Afghanistan",
+    "marketplace": "Music",
+    "profileId": "64"
+  },
+  {
+    "country": "Maldives",
+    "marketplace": "Beauty",
+    "profileId": "65"
+  }
+]

@@ -1,0 +1,75 @@
+/* Using a sans serif font and increasing the size of the characters */
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+/* Shift the heading text to the left, by default it is centered */
+table caption {
+    text-align: left;
+}
+
+/* We "collapse" the frames of adjacent cells */
+table {
+    border-collapse: collapse;
+}
+
+/* 
+  Add a border and padding to the cells, the distance from the content to the border.
+  To control the vertical position, the caption-side property is used.
+*/
+table th,
+table td {
+    padding: 10px;
+    border: 1px solid #2a2a2a;
+}
+
+.button {
+    min-width: 136px;
+    height: 48px;
+    padding: 14px 5px;
+    border-radius: 12px;
+    background-color: rgb(52, 112, 255);
+    outline: none;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.43;
+    margin-left: 10px;
+}
+
+.wrapper-sort {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    /* margin-left: 200px; */
+}
+
+.label {
+    margin-left: 10px;
+}
+
+.input {
+    margin-left: 5px;
+    width: 160px;
+    height: 48px;
+    outline: none;
+    border: none;
+    padding: 14px 0px 14px 14px;
+    border-radius: 14px;
+    background-color: rgb(196, 196, 215);
+    color: rgb(18, 20, 23);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.11;
+}
+
+.link-back {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
